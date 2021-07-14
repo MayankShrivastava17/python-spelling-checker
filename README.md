@@ -32,5 +32,3 @@ Either download it manually or install it via [PyPi](https://pypi.org/)
 Since you can only deploy static page in [GitHub pages](https://pages.github.com/).
 
 You can use [Heroku](https://www.heroku.com/) or [Pythoneverywhere](https://www.pythonanywhere.com/) for deployment.
-
-
